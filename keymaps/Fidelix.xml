@@ -5,7 +5,13 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="MoveStatementDown" />
+  <action id="ParameterInfo" />
   <action id="ResizeToolWindowDown" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -22,4 +28,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
