@@ -1,6 +1,16 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="PHPCodeSnifferProjectConfiguration">
+        <option name="selectedConfigurationId" value="2287a5b2-d0d1-4544-9272-e85d098191ff" />
+      </component>
+      <component name="PhpDebugGeneral" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+      <component name="PhpUnit">
+        <phpunit_settings>
+          <PhpUnitSettings />
+        </phpunit_settings>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="FDX-Arch" />
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
           <profile-state>
@@ -9,30 +19,12 @@
                 <id />
               </State>
               <State>
-                <id>Code StylePHP</id>
-              </State>
-              <State>
-                <id>General</id>
-              </State>
-              <State>
-                <id>GeneralPHP</id>
-              </State>
-              <State>
-                <id>Internationalization issues</id>
-              </State>
-              <State>
-                <id>JavaScript</id>
-              </State>
-              <State>
                 <id>PHP</id>
-              </State>
-              <State>
-                <id>Potentially confusing code constructsJavaScript</id>
               </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>AngularJS</id>
+                <id>PhpCSValidationInspection</id>
               </State>
             </selected-state>
           </profile-state>
@@ -49,8 +41,23 @@
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Errors" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.smarty" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>
