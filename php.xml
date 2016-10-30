@@ -3,6 +3,7 @@
     <phpcs_settings>
       <PhpCSConfiguration />
       <phpcs_by_interpreter interpreter_id="2287a5b2-d0d1-4544-9272-e85d098191ff" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/home/fidelix/.composer/vendor/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="89a66686-655f-40ab-bd13-089e462d3f1d" tool_path="/home/fidelix/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
